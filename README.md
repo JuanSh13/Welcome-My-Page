@@ -1,10 +1,17 @@
-<h1 align="center">Te saludo, Mi nombre es Juan Manuel Osorio Chambueta y trabajo como Web Developer <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Bienvenido a mi página!<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Bienvenido a mi página!</b><br><br>
+    <b>Mi nombre es Juan Manuel Osorio Chambueta, Web Developer</b><br><br>
     <i>
         Te contaré un poco más sobre mi.<br>
         Soy programador y diseñador web Full Stack que dedica su mayor tiempo al manejo y uso de herramientas para la creción de distintas webs, con más de 8 años en la industria de desarrollo.<br>
+    </i><br>
+    <i>
+        Cuento con varias habilidades en el desarrollo Front-end y Back-end<br>
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML%20-%20black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Javascript%20-%20black?logo=javascript">
+  
+        <br>
     </i><br>
     <a href="http://www.linkedin.com/in/shjuanm">
         <img src="https://img.shields.io/badge/LinkedIn%20-%20dodgerblue?logo=linkedin&logoColor=white" alt="LinkedIn">
