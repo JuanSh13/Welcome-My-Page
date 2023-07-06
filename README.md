@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Bienvenido a mi página! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
@@ -27,21 +26,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Salesforce%20-%20dodgerblue?logo=salesforce&logoColor=white">
     <br>
   </i><br>
-=======
-<h1 align="center">Bienvenido a mi página!<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-
-<p align="center">
-    <b>Mi nombre es Juan Manuel Osorio Chambueta, Web Developer</b><br><br>
-    <i>
-        Te contaré un poco más sobre mi.<br>
-        Soy programador y diseñador web Full Stack que dedica su mayor tiempo al manejo y uso de herramientas para la creción de distintas webs, con más de 8 años en la industria de desarrollo.<br>
-        <br>
-        Cuento con varias habilidades en el desarrollo Front-end y Back-end<br>
-        <img alt="Static Badge" src="https://img.shields.io/badge/HTML%20-%20black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Javascript%20-%20black?logo=javascript">
-        <br>
-    </i><br>
->>>>>>> 64db0b32193fe34fa6395cb7f6f03863e7b7dd68
     <a href="http://www.linkedin.com/in/shjuanm">
       <img src="https://img.shields.io/badge/LinkedIn%20-%20dodgerblue?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -57,8 +41,4 @@
     <a href="https://wa.me/573106950078">
       <img src="https://img.shields.io/badge/My%20Web%20Site%20-%20darkviolet?logoColor=white" alt="My Web Site">
     </a>    
-<<<<<<< HEAD
 </p>
-=======
-</p>
->>>>>>> 64db0b32193fe34fa6395cb7f6f03863e7b7dd68
